@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Libre+Baskerville&family=Oswald:wght@200&family=Roboto:wght@300&display=swap');
+img{
+    border:5px white solid;
+    margin: 0 auto; 
+}
+.img1{
+    text-align: center;
+}
+h1{
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 60px;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 15px;
+}
+html{
+    background-color: black;
+}
+
